@@ -1,0 +1,33 @@
+div.sgc-toc-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 100px;
+    text-align: center;
+	line-height: 2;
+}
+
+div.sgc-toc-level-1 {
+    margin-left: 200px;
+  font-size: 2em;
+	line-height: 2.2;
+}
+
+div.sgc-toc-level-2 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-3 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-4 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-5 {
+    margin-left: 2em;
+}
+
+div.sgc-toc-level-6 {
+    margin-left: 2em;
+}
