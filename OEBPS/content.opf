@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="generator" content="Adobe InDesign 18.5"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>The Kybalion. Hermetic Philoshophy</dc:title>
+    <dc:creator>Daniele Giampà</dc:creator>
+    <dc:subject>The Kybalion. Hermetic Philoshophy</dc:subject>
+    <dc:description>The Kybalion. Hermetic Philoshophy</dc:description>
+    <dc:publisher>EDGE DPUB LTD.</dc:publisher>
+    <dc:date>2023-08-22</dc:date>
+    <dc:rights>Public domain</dc:rights>
+    <dc:language>en-GB</dc:language>
+    <meta property="dcterms:modified">2024-08-28T20:09:23Z</meta>
+    <dc:identifier id="bookid">urn:uuid:8FC00CB8-C2EF-4A9A-A353-8462D37A45EA</dc:identifier>
+    <meta name="Sigil version" content="2.2.0"/>
+    <meta name="cover" content="kybalion_symbol.png"/>
+  </metadata>
+  <manifest>
+    <item id="Kybalion_Title_Page_REF" href="Kybalion_Title_Page_REF.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-1" href="Kybalion_REF-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-2" href="Kybalion_REF-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-3" href="Kybalion_REF-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-4" href="Kybalion_REF-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-5" href="Kybalion_REF-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-6" href="Kybalion_REF-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-7" href="Kybalion_REF-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-8" href="Kybalion_REF-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-9" href="Kybalion_REF-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-10" href="Kybalion_REF-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-11" href="Kybalion_REF-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-12" href="Kybalion_REF-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-13" href="Kybalion_REF-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-14" href="Kybalion_REF-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-15" href="Kybalion_REF-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-16" href="Kybalion_REF-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-17" href="Kybalion_REF-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-18" href="Kybalion_REF-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-19" href="Kybalion_REF-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-20" href="Kybalion_REF-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-21" href="Kybalion_REF-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-22" href="Kybalion_REF-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-23" href="Kybalion_REF-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-24" href="Kybalion_REF-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Kybalion_REF-25" href="Kybalion_REF-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="Times-Bold.ttc" href="font/Times-Bold.ttc" media-type="application/x-font-ttf"/>
+    <item id="TimesNewRomanPS-BoldMT.ttf" href="font/TimesNewRomanPS-BoldMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="TimesNewRomanPS-ItalicMT.ttf" href="font/TimesNewRomanPS-ItalicMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="TimesNewRomanPSMT.ttf" href="font/TimesNewRomanPSMT.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="kybalion_symbol.png" href="images/kybalion_symbol.png" media-type="image/png" properties="cover-image"/>
+    <item id="edge_dpub_logo.png" href="images/edge_dpub_logo.png" media-type="image/png"/>
+    <item id="Style0001.css" href="css/sgc-toc.css" media-type="text/css"/>
+    <item id="summary.xhtml" href="summary.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xa80ac1b4-76ae-4917-91c5-d5dc0fd051f3" href="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="xa80ac1b4-76ae-4917-91c5-d5dc0fd051f3"/>
+    <itemref idref="Kybalion_Title_Page_REF"/>
+    <itemref idref="summary.xhtml"/>
+    <itemref idref="Kybalion_REF-1"/>
+    <itemref idref="Kybalion_REF-2"/>
+    <itemref idref="Kybalion_REF-3"/>
+    <itemref idref="Kybalion_REF-4"/>
+    <itemref idref="Kybalion_REF-5"/>
+    <itemref idref="Kybalion_REF-6"/>
+    <itemref idref="Kybalion_REF-7"/>
+    <itemref idref="Kybalion_REF-8"/>
+    <itemref idref="Kybalion_REF-9"/>
+    <itemref idref="Kybalion_REF-10"/>
+    <itemref idref="Kybalion_REF-11"/>
+    <itemref idref="Kybalion_REF-12"/>
+    <itemref idref="Kybalion_REF-13"/>
+    <itemref idref="Kybalion_REF-14"/>
+    <itemref idref="Kybalion_REF-15"/>
+    <itemref idref="Kybalion_REF-16"/>
+    <itemref idref="Kybalion_REF-17"/>
+    <itemref idref="Kybalion_REF-18"/>
+    <itemref idref="Kybalion_REF-19"/>
+    <itemref idref="Kybalion_REF-20"/>
+    <itemref idref="Kybalion_REF-21"/>
+    <itemref idref="Kybalion_REF-22"/>
+    <itemref idref="Kybalion_REF-23"/>
+    <itemref idref="Kybalion_REF-24"/>
+    <itemref idref="Kybalion_REF-25"/>
+    <itemref idref="toc"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="summary.xhtml"/>
+  </guide>
+</package>
